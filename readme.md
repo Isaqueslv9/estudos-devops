@@ -2,7 +2,7 @@
 
 Iniciando os estudos com GIT com esse simples projeto
 
-##Tecnologias usadas
+## Tecnologias usadas
 
 - GIT
 - GITHUB
